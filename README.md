@@ -1,4 +1,4 @@
-markdown
+
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
@@ -100,21 +100,28 @@ markdown
 
 # `> stack`
 
+### ⚙️ Back-End
 
-Back-End
-├── Java
-├── Python
-└── JavaScript
+<p>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
 
-Database
-├── MySQL
-└── SQL
+### 🗄️ Database
 
-Tools
-├── Git
-├── GitHub
-└── VS Code
+<p>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791" />
+</p>
 
+### 🛠️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+</p>
 
 ---
 
@@ -137,3 +144,4 @@ Tools
   </a>
 
 </p>
+
