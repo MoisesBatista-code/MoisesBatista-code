@@ -1,24 +1,24 @@
 <div align="center">
 
-# 👨‍💻 Moisés Batista
-
-### Desenvolvedor Back End
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=90EE90&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back+End;Estudante+de+ADS;Desenvolvimento+de+Software;Java+%7C+Python+%7C+JavaScript+%7C+MySQL" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:182a1f,100:90EE90&text=MOISÉS%20BATISTA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DESENVOLVEDOR%20BACK%20END&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=90EE90&center=true&vCenter=true&width=650&lines=Desenvolvedor+Back+End;Estudante+de+ADS;Construindo+soluções+com+código;Java+%7C+Python+%7C+JavaScript+%7C+MySQL" alt="Typing Animation" />
+
+<br><br>
+
 <a href="https://github.com/MoisesBatista-code">
-  <img src="https://img.shields.io/badge/GitHub-MoisesBatista--code-90EE90?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-MoisesBatista--code-90EE90?style=for-the-badge&logo=github&logoColor=0d1117" />
 </a>
 
 <a href="https://instagram.com/M.batissta">
-  <img src="https://img.shields.io/badge/Instagram-M.batissta-90EE90?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-M.batissta-90EE90?style=for-the-badge&logo=instagram&logoColor=0d1117" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MoisesBatista-code&color=90EE90&style=flat-square&label=VISUALIZAÇÕES+DO+PERFIL" />
+<img src="https://komarev.com/ghpvc/?username=MoisesBatista-code&color=90EE90&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -26,18 +26,22 @@
 
 ## `> sobre_mim`
 
-Olá! Eu sou **Moisés Batista**.
+<div align="center">
+
+### Olá! Eu sou Moisés Batista 👋
+
+</div>
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **desenvolvimento Back End**.
 
 Atualmente, estudo e desenvolvo conhecimentos em:
 
-- ☕ Java
-- 🐍 Python
-- 🌐 JavaScript
-- 🗄️ MySQL
+- ☕ **Java**
+- 🐍 **Python**
+- 🌐 **JavaScript**
+- 🗄️ **MySQL**
 
-Tenho interesse em desenvolvimento de software, lógica de programação, bancos de dados e construção de soluções eficientes.
+Tenho interesse em **desenvolvimento de software, lógica de programação, bancos de dados e construção de soluções eficientes**.
 
 ---
 
@@ -49,15 +53,31 @@ Tenho interesse em desenvolvimento de software, lógica de programação, bancos
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-90EE90?style=flat-square&logo=openjdk&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Python-90EE90?style=flat-square&logo=python&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/JavaScript-90EE90?style=flat-square&logo=javascript&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/MySQL-90EE90?style=flat-square&logo=mysql&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Git-90EE90?style=flat-square&logo=git&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/GitHub-90EE90?style=flat-square&logo=github&logoColor=0d1117" />
+
+</div>
+
 ---
 
 ## `> stack`
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<div align="center">
 
-### Back End
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### ⚙️ Back End
 
 Java  
 Python  
@@ -65,20 +85,18 @@ JavaScript
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### Banco de Dados
+### 🗄️ Database
 
 MySQL  
 SQL  
 
 </td>
-</tr>
 
-<tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### Ferramentas
+### 🛠️ Tools
 
 Git  
 GitHub  
@@ -86,17 +104,10 @@ VS Code
 
 </td>
 
-<td align="center" width="50%">
-
-### Atualmente estudando
-
-Desenvolvimento Back End  
-Estrutura de Dados  
-Boas práticas de programação  
-
-</td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -111,16 +122,16 @@ Boas práticas de programação
 
 ### 🚀 Projeto 01
 
-**Adicione seu projeto aqui**
+**Seu projeto aqui**
 
 <br>
 
-Tecnologias utilizadas
+`Java` `MySQL`
 
 <br><br>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-90EE90?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/VER%20PROJETO-90EE90?style=for-the-badge&logo=github&logoColor=0d1117" />
 </a>
 
 </td>
@@ -129,16 +140,16 @@ Tecnologias utilizadas
 
 ### 🚀 Projeto 02
 
-**Adicione seu projeto aqui**
+**Seu projeto aqui**
 
 <br>
 
-Tecnologias utilizadas
+`Python` `MySQL`
 
 <br><br>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-90EE90?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/VER%20PROJETO-90EE90?style=for-the-badge&logo=github&logoColor=0d1117" />
 </a>
 
 </td>
@@ -151,16 +162,16 @@ Tecnologias utilizadas
 
 ### 🚀 Projeto 03
 
-**Adicione seu projeto aqui**
+**Seu projeto aqui**
 
 <br>
 
-Tecnologias utilizadas
+`JavaScript`
 
 <br><br>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-90EE90?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/VER%20PROJETO-90EE90?style=for-the-badge&logo=github&logoColor=0d1117" />
 </a>
 
 </td>
@@ -169,16 +180,16 @@ Tecnologias utilizadas
 
 ### 🚀 Projeto 04
 
-**Adicione seu projeto aqui**
+**Seu projeto aqui**
 
 <br>
 
-Tecnologias utilizadas
+`Em breve`
 
 <br><br>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-90EE90?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/VER%20PROJETO-90EE90?style=for-the-badge&logo=github&logoColor=0d1117" />
 </a>
 
 </td>
@@ -194,19 +205,19 @@ Tecnologias utilizadas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesBatista-code&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=90EE90&icon_color=90EE90&text_color=ffffff&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesBatista-code&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=90EE90&icon_color=90EE90&text_color=ffffff&bg_color=0d1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesBatista-code&layout=compact&theme=dark&hide_border=true&title_color=90EE90&text_color=ffffff&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesBatista-code&layout=compact&hide_border=true&title_color=90EE90&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 
 ---
 
-## `> streak`
+## `> github_streak`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MoisesBatista-code&theme=dark&hide_border=true&background=0D1117&ring=90EE90&fire=90EE90&currStreakLabel=90EE90" />
+<img src="https://streak-stats.demolab.com?user=MoisesBatista-code&hide_border=true&background=0D1117&ring=90EE90&fire=90EE90&currStreakLabel=90EE90&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 
 </div>
 
@@ -216,7 +227,7 @@ Tecnologias utilizadas
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesBatista-code&bg_color=0d1117&color=ffffff&line=90EE90&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesBatista-code&bg_color=0d1117&color=ffffff&line=90EE90&point=90EE90&area=true&hide_border=true" />
 
 </div>
 
@@ -236,7 +247,11 @@ Tecnologias utilizadas
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MoisesBatista-code/MoisesBatista-code/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoisesBatista-code/MoisesBatista-code/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoisesBatista-code/MoisesBatista-code/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/MoisesBatista-code/MoisesBatista-code/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -247,21 +262,27 @@ Tecnologias utilizadas
 <div align="center">
 
 <a href="https://github.com/MoisesBatista-code">
-<img src="https://img.shields.io/badge/GitHub-MoisesBatista--code-90EE90?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-MoisesBatista--code-90EE90?style=for-the-badge&logo=github&logoColor=0d1117" />
 </a>
 
 <a href="https://instagram.com/M.batissta">
-<img src="https://img.shields.io/badge/Instagram-M.batissta-90EE90?style=for-the-badge&logo=instagram&logoColor=black" />
+<img src="https://img.shields.io/badge/Instagram-M.batissta-90EE90?style=for-the-badge&logo=instagram&logoColor=0d1117" />
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### `> desenvolvendo. aprendendo. evoluindo.`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=1000&color=90EE90&center=true&vCenter=true&width=500&lines=Desenvolvendo.;Aprendendo.;Evoluindo." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=100&section=footer" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:90EE90,50:182a1f,100:0d1117&section=footer" />
 
 </div>
