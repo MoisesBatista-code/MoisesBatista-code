@@ -27,9 +27,9 @@
     />
   </a>
 
-  <a href="https://instagram.com/m.batistta">
+  <a href="https://instagram.com/m.batissta">
     <img
-      src="https://img.shields.io/badge/Instagram-m.batistta-161b22?style=for-the-badge&logo=instagram&logoColor=E4405F"
+      src="https://img.shields.io/badge/Instagram-m.batissta-161b22?style=for-the-badge&logo=instagram&logoColor=E4405F"
       alt="Instagram"
     />
   </a>
