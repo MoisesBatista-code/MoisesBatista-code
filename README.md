@@ -1,3 +1,4 @@
+markdown
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
@@ -99,7 +100,7 @@
 
 # `> stack`
 
-```text
+text
 Back-End
 ├── Java
 ├── Python
@@ -113,3 +114,26 @@ Tools
 ├── Git
 ├── GitHub
 └── VS Code
+
+
+---
+
+# `> contato`
+
+<p align="center">
+
+  <a href="tel:+5579988561377">
+    <img
+      src="https://img.shields.io/badge/Telefone-+55%2079%2098856--1377-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"
+      alt="Telefone"
+    />
+  </a>
+
+  <a href="mailto:moisessilva.dev@outlook.com">
+    <img
+      src="https://img.shields.io/badge/Email-moisessilva.dev%40outlook.com-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4"
+      alt="Email"
+    />
+  </a>
+
+</p>
