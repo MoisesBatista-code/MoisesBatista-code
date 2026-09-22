@@ -100,7 +100,7 @@ markdown
 
 # `> stack`
 
-text
+
 Back-End
 ├── Java
 ├── Python
