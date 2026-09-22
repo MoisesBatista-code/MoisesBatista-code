@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=700&height=50&lines=Desenvolvedor+Back-End;Estudante+de+ADS;Java+%7C+Python+%7C+JavaScript;MySQL+%7C+Git+%7C+GitHub"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=700&height=50&lines=Desenvolvedor+Back-End;Estudante+de+ADS;Java+%7C+Python+%7C+JavaScript;Node.js+%7C+MySQL+%7C+Git+%7C+GitHub"
     alt="Typing Animation"
   />
 </p>
@@ -61,7 +61,7 @@
 
 <p align="center">
   Atualmente estou estudando e desenvolvendo conhecimentos em
-  <strong>Java, Python, JavaScript e MySQL</strong>.
+  <strong>Java, Python, JavaScript, Node.js e MySQL</strong>.
 </p>
 
 <p align="center">
@@ -79,6 +79,7 @@
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
 </p>
 
 ## 🗄️ Banco de Dados
@@ -106,6 +107,7 @@
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
 </p>
 
 ### 🗄️ Database
