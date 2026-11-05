@@ -66,31 +66,31 @@
 
 <p align="center">
   <strong>🌐 Front-End</strong><br>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </p>
 
 <p align="center">
   <strong>⚙️ Back-End</strong><br>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=EA2D2E" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=EA2D2E" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
 </p>
 
 <p align="center">
   <strong>🗄️ Banco de Dados</strong><br>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791" alt="SQL" />
 </p>
 
 <p align="center">
   <strong>🛠️ Ferramentas & Análise</strong><br>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
-  <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-000000?style=for-the-badge&logo=vscode&logoColor=007ACC" alt="VS Code" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346" alt="Excel" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-000000?style=for-the-badge&logo=power-bi&logoColor=F2C811" alt="Power BI" />
 </p>
 
 <br>
@@ -108,7 +108,7 @@
   </a>
   <a href="mailto:moisessilva.dev@outlook.com">
     <img
-      src="https://img.shields.io/badge/Email-moisessilva.dev%40outlook.com-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4"
+      src="https://img.shields.io/badge/Email-moisessilva.dev%40outlook.com-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"
       alt="Email"
     />
   </a>
